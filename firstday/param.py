@@ -8,3 +8,5 @@ s = '''hello work
 d'''
 
 print(s)
+
+print(s)

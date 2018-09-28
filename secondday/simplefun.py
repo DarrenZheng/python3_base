@@ -1,8 +1,9 @@
-def func(a):
-    a = 100
+def func(a,b=2,c=3):
     print("a = ", a)
+    print("b = ", b)
+    print("c = ", c)
 
 
-x = 200
-func(x)
-print("out x=",x)
+func(1)
+
+func(b=8,a=3)

@@ -3,3 +3,5 @@ if __name__ == '__main__':
     print("hello")
 else:
     print("me is called by whom?")
+
+version = 100

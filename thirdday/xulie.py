@@ -20,3 +20,7 @@ print('characters 2 to end is', name[2:])
 print('characters 1 to -1 is', name[1:-1])
 print('characters start to end is', name[:])
 
+tup = ('abc', '123', '8878', 'adbc')
+print('tup 1 to 3 is', tup[1:3])
+print('tup 1\'s 1:3 is', tup[1][1:3])
+

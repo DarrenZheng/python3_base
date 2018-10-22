@@ -8,4 +8,7 @@ except EOFError:
 except:
     print('other error')
 
+finally:
+    print('i done care what you do')
+
 print('Done')
